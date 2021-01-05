@@ -4,12 +4,12 @@ Last Updated: 01/04/21
 ## Current Projects:
 [SpaceclusterX](https://github.com/Mattiwos/SpaceclusterX)
 ## Currently Learning:
-
+Go
 ## Availability
 I am currently looking for an internship.
 
 ## Personal Website
-
+Not done yet.
 <!--
 **Mattiwos/mattiwos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
