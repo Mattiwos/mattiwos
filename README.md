@@ -1,15 +1,16 @@
 ### Mattiwos Belachew 
-Last Updated: 01/04/21
-
+Last Updated: 01/07/21
+# Mood
+Curious
 ## Current Projects:
-[SpaceclusterX](https://github.com/Mattiwos/SpaceclusterX)
+[Spacecluster2](https://github.com/Mattiwos/Spacecluster2) a better verison of[SpaceclusterX](https://github.com/Mattiwos/SpaceclusterX)
+which is a space themed io game using express and socketio.
 ## Currently Learning:
-Go
+Go/C
 ## Availability
-I am currently looking for an internship.
-
+I am currently looking for an internship for the Summer of 2021.
 ## Personal Website
-Not done yet.
+Not done yet. Currently debatinng if simplicity is the way to go or not. 
 <!--
 **Mattiwos/mattiwos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
