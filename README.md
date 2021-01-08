@@ -1,7 +1,6 @@
 ### Mattiwos Belachew 
 Last Updated: 01/07/21
-# Mood
-Curious
+Mood: Curious
 ## Current Projects:
 [Spacecluster2](https://github.com/Mattiwos/Spacecluster2) a better verison of[SpaceclusterX](https://github.com/Mattiwos/SpaceclusterX)
 which is a space themed io game using express and socketio.
