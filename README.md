@@ -1,8 +1,7 @@
 ### Mattiwos Belachew 
 Last Updated: 01/09/21  
 ## Current Projects:
-[Spacecluster2](https://github.com/Mattiwos/Spacecluster2) a better verison of[SpaceclusterX](https://github.com/Mattiwos/SpaceclusterX)
-which is a space themed io game using express and socketio.
+Making a database w/ C called [wosdb](https://github.com/Mattiwos/wosdb) to learn C.
 ## Currently Learning:
 Go/C
 ## Availability
