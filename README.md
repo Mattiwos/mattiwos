@@ -4,8 +4,11 @@ Last Updated: 01/09/21
 Making a database w/ C called [wosdb](https://github.com/Mattiwos/wosdb) to learn C.
 ## Currently Learning:
 Go/C
+<!--
 ## Availability
 I am currently looking for an internship for the Summer of 2021.
+-->  
+
 <!--
 ## Goals
   - [ ] Build a basic db using c similar to leveldb (as a method to learn c/cpp)
