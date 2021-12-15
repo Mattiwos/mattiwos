@@ -2,7 +2,7 @@
 Last Updated: 12/14/21  (I'm back)
 ## Current Projects:
 Making a database w/ C called [wosdb](https://github.com/Mattiwos/wosdb) to learn C.  
-Everything wos
+Working on all things Wos
 ## Currently Learning:
 C
 <!--
