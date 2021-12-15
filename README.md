@@ -1,12 +1,13 @@
 ### Mattiwos Belachew 
-Last Updated: 01/09/21  
+Last Updated: 12/14/21  (I'm back)
 ## Current Projects:
 Making a database w/ C called [wosdb](https://github.com/Mattiwos/wosdb) to learn C.
+Everything wos
 ## Currently Learning:
-Go/C
+C
 <!--
 ## Availability
-I am currently looking for an internship for the Summer of 2021.
+I am currently looking for an internship for the Summer of 2022.
 -->  
 
 <!--
