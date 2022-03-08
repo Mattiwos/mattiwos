@@ -1,5 +1,5 @@
-### Mattiwos Belachew 
-Last Updated: 12/14/21  (I'm back)
+### Mattiwos  
+Last Updated: March 8, 2022  (I'm back)
 ## Current Projects:
 Making a database w/ C called [wosdb](https://github.com/Mattiwos/wosdb) to learn C.  
 Working on all things Wos
@@ -21,19 +21,4 @@ I am currently looking for an internship for the Summer of 2022.
   - [ ] Lastly rewrite Spaceclusterx (spacecluster2)
 -->  
   
-<!--
-**Mattiwos/mattiwos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
