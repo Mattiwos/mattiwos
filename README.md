@@ -1,10 +1,10 @@
 ### Mattiwos  
-Last Updated: March 8, 2022  (I'm back)
+🤗
 ## Current Projects:
 Making a database w/ C called [wosdb](https://github.com/Mattiwos/wosdb) to learn C.  
-Working on all things Wos
+Working on all things Wos(Open-source project)
 ## Currently Learning:
-C
+C++
 <!--
 ## Availability
 I am currently looking for an internship for the Summer of 2022.
